@@ -1,0 +1,13 @@
+{
+  "name": "@easystef/how-to-npm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Stefan",
+  "license": "ISC",
+  "repository": "http://www.abcd.nl/easystef",
+  "description": "",
+  "dependencies": {}
+}
